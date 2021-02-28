@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>something</title>
     <link>https://karmaguz.github.io/</link>
-    <description>Recent content on </description>
+    <description>Recent content on something</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>zh-cn</language>
     <lastBuildDate>Sat, 27 Feb 2021 10:10:59 +0800</lastBuildDate><atom:link href="https://karmaguz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Email</title>
@@ -22,7 +22,7 @@
       <pubDate>Sat, 27 Feb 2021 10:10:59 +0800</pubDate>
       
       <guid>https://karmaguz.github.io/post/first/</guid>
-      <description>hello hugo fbgfd  fgerg dfgrh htrnh  </description>
+      <description>hello hugo fbgfd fgerg dfgrh htrnh</description>
     </item>
     
   </channel>
