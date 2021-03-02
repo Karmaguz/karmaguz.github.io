@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>something</title>
+    <title>THE CREATOR WISE AND LOVING</title>
     <link>https://karmaguz.github.io/</link>
-    <description>Recent content on something</description>
+    <description>Recent content on THE CREATOR WISE AND LOVING</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 27 Feb 2021 10:10:59 +0800</lastBuildDate><atom:link href="https://karmaguz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 10:34:33 +0800</lastBuildDate><atom:link href="https://karmaguz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Email</title>
+      <title>妙法莲华经观世音菩萨普门品</title>
+      <link>https://karmaguz.github.io/post/pmp01/</link>
+      <pubDate>Mon, 01 Mar 2021 10:34:33 +0800</pubDate>
+      
+      <guid>https://karmaguz.github.io/post/pmp01/</guid>
+      <description>&lt;p&gt;世尊妙相具 我今重问彼 佛子何因缘 名为观世音&lt;br&gt;
+具足妙相尊 偈答无尽意 汝听观音行 善应诸方所&lt;br&gt;
+弘誓深如海 历劫不思议 侍多千亿佛 发大清净愿&lt;br&gt;
+我为汝略说 闻名及见身 心念不空过 能灭诸有苦&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>γνωστικός</title>
       <link>https://karmaguz.github.io/about/</link>
       <pubDate>Sat, 27 Feb 2021 23:11:02 +0800</pubDate>
       
       <guid>https://karmaguz.github.io/about/</guid>
-      <description>@outlook.com</description>
+      <description>https://note.ms/kmgz</description>
     </item>
     
     <item>
@@ -22,7 +34,7 @@
       <pubDate>Sat, 27 Feb 2021 10:10:59 +0800</pubDate>
       
       <guid>https://karmaguz.github.io/post/first/</guid>
-      <description>hello hugo fbgfd fgerg dfgrh htrnh</description>
+      <description>hello hugo</description>
     </item>
     
   </channel>
